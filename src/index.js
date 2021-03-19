@@ -1,13 +1,23 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import { HashRouter, Route } from 'react-router-dom';
+
 import reportWebVitals from './reportWebVitals';
 
+import 'bootstrap/dist/css/bootstrap.css';
+
+import Home from './components/Home';
+import App from './components/App';
+
+
+
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <HashRouter>
+    <div>
+      <Route exact path="/" component={App} />
+      <Route path="/home" component={Home} />
+    </div>
+  </HashRouter>, 
   document.getElementById('root')
 );
 
