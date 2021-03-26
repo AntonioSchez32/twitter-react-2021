@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/twitter-react-2021/static/css/main.47b58bbf.chunk.css",
+    "main.js": "/twitter-react-2021/static/js/main.a7ae0e7b.chunk.js",
+    "main.js.map": "/twitter-react-2021/static/js/main.a7ae0e7b.chunk.js.map",
+    "runtime-main.js": "/twitter-react-2021/static/js/runtime-main.3e68e649.js",
+    "runtime-main.js.map": "/twitter-react-2021/static/js/runtime-main.3e68e649.js.map",
+    "static/css/2.ef9168ec.chunk.css": "/twitter-react-2021/static/css/2.ef9168ec.chunk.css",
+    "static/js/2.08978f0c.chunk.js": "/twitter-react-2021/static/js/2.08978f0c.chunk.js",
+    "static/js/2.08978f0c.chunk.js.map": "/twitter-react-2021/static/js/2.08978f0c.chunk.js.map",
+    "static/js/3.70d812a9.chunk.js": "/twitter-react-2021/static/js/3.70d812a9.chunk.js",
+    "static/js/3.70d812a9.chunk.js.map": "/twitter-react-2021/static/js/3.70d812a9.chunk.js.map",
+    "index.html": "/twitter-react-2021/index.html",
+    "static/css/2.ef9168ec.chunk.css.map": "/twitter-react-2021/static/css/2.ef9168ec.chunk.css.map",
+    "static/css/main.47b58bbf.chunk.css.map": "/twitter-react-2021/static/css/main.47b58bbf.chunk.css.map",
+    "static/js/2.08978f0c.chunk.js.LICENSE.txt": "/twitter-react-2021/static/js/2.08978f0c.chunk.js.LICENSE.txt",
+    "static/media/bird.7a65b904.png": "/twitter-react-2021/static/media/bird.7a65b904.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e68e649.js",
+    "static/css/2.ef9168ec.chunk.css",
+    "static/js/2.08978f0c.chunk.js",
+    "static/css/main.47b58bbf.chunk.css",
+    "static/js/main.a7ae0e7b.chunk.js"
+  ]
+}
